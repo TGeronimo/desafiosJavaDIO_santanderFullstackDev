@@ -7,7 +7,7 @@ import java.util.StringTokenizer;
 
 public class FolhaDePagamento {
 
-    // CÓDIGO DE EXEMPLO DO DESAFIO NA DIO
+    // CÓDIGO DE EXEMPLO DO DESAFIO NA DIO, A SER MODIFICADO
         public static void main(String[] args) throws IOException {
             BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
             StringTokenizer st = new StringTokenizer(br.readLine());
