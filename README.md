@@ -26,14 +26,14 @@ Códigos-solução dos desafios de código em Java, feitos para o bootcamp do Sa
 > Média ponderada das provas, com definição do status do aluno.
 <br>
 
-### :white_square_button: A corrida de tartarugas :x:
+### :black_square_button: A corrida de tartarugas :heavy_check_mark:
 > Dados o número de tartarugas na corrida e suas velocidades apuradas, classificá-las de acordo com a categoria definida.
 <br>
 
-### :black_square_button: Combinação de strings :x:
+### :white_square_button: Combinação de strings :x:
 > Dadas duas strings, o código deve combinar seus caracteres em ordens distintas.
 <br>
 
-### :black_square_button: Encaixa ou não? :x:
+### :black_square_button: Encaixa ou não? :heavy_check_mark:
 > Dados dois inteiros muito grandes, verificar se o segundo encaixa no primeiro.
 <br>
