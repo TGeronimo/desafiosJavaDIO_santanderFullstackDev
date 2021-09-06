@@ -30,7 +30,7 @@ Códigos-solução dos desafios de código em Java, feitos para o bootcamp do Sa
 > Dados o número de tartarugas na corrida e suas velocidades apuradas, classificá-las de acordo com a categoria definida.
 <br>
 
-### :white_square_button: Combinação de strings :x:
+### :black_square_button: Combinação de strings :heavy_check_mark:
 > Dadas duas strings, o código deve combinar seus caracteres em ordens distintas.
 <br>
 
